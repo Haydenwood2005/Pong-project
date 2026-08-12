@@ -1,5 +1,6 @@
 # Pong-project
 A basic retro game, opening in a local terminal when ran on VSCode, allowing for single or multiplayer enjoyment.
+The first game of my portfolio, so starting easy, as future games will use the knowledge i gain from this experience.
 
 ## Description
 This project will use my initiative and develop my skills as a programmer, this course follows my own knowledge, youtube tutorials, and information gathered on google
